@@ -8,7 +8,7 @@ import org.junit.Test;
 public class GoedeDoelTest {
 	private static final String NAAM = "CliniClowns";
 	private GoedeDoel doel;
-    private BigDecimal opgebracht = BigDecimal.ZERO;
+   // private BigDecimal opgebracht = BigDecimal.ZERO;
 
 	@Before
 	public void before() {
