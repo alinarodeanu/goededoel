@@ -21,6 +21,6 @@ public class GoedeDoelTest {
 	}
 
 	@Test
-	void eenNieuwDoelHeeftNogGeenOpbrengst() { assertThat(doel.getOpgebracht()).isZero(); }
+	public void eenNieuwDoelHeeftNogGeenOpbrengst() { assertThat(doel.getOpgebracht()).isZero(); }
 
 }
